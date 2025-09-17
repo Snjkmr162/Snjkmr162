@@ -1,7 +1,8 @@
-# Hi, I’m Sanjay Kumar Rajkumar 👋
+# 👋 Hi, I’m Sanjay Kumar Rajkumar
 
-**MS in Business Analytics & AI** | Data Scientist in training  
-Turning data into stories, models & predictions that matter.
+🎓 **MS in Business Analytics & Artificial Intelligence @ UT Dallas**  
+📊 **Aspiring Data Scientist | Machine Learning Enthusiast**  
+Passionate about transforming raw data into actionable insights using **EDA, data cleaning, machine learning models, and cloud-based analytics solutions**.  
 
 ---
 
