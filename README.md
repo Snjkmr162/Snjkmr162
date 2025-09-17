@@ -16,11 +16,13 @@ Turning data into stories, models & predictions that matter.
 
 ## 📚 Academic Projects
 
+| Project | Description | Key Tech / Outcome |
 |---|---|---|
 | **Text Generation using RNN (LSTM)** | Built char-level RNN to generate dialogues; evaluated with BLEU / ROUGE / Perplexity | Python, LSTM, TensorFlow |
 | **Image Classification with CNN** | Fine-tuned CNN on CIFAR-10; improved accuracy via regularization | PyTorch/TensorFlow, Data Augmentation |
 | **Airbnb Price Prediction** | EDA + feature engineering + Random Forest; R² ≈ 0.82 | Python, Random Forest, scikit-learn |
 | **Ethereum Price + Sentiment** | Combined historical data + sentiment; achieved ~82% classification accuracy | Python, Data Scraping, Sentiment Analysis |
+
 
 ---
 
