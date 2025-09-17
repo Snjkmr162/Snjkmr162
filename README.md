@@ -4,7 +4,7 @@
 📊 **Aspiring Data Scientist | Machine Learning Enthusiast**  
 Passionate about transforming raw data into actionable insights using **EDA, data cleaning, machine learning models, and cloud-based analytics solutions**.  
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -31,7 +31,6 @@ Passionate about transforming raw data into actionable insights using **EDA, dat
 ![Looker Studio](https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
 
----
 
 ## 📚 Academic Projects
 
@@ -43,7 +42,6 @@ Passionate about transforming raw data into actionable insights using **EDA, dat
 | **Ethereum Price + Sentiment** | Combined historical data + sentiment; achieved ~82% classification accuracy | Python, Data Scraping, Sentiment Analysis |
 
 
----
 
 ## 📫 Contact Me
 
@@ -51,7 +49,7 @@ Passionate about transforming raw data into actionable insights using **EDA, dat
 - **LinkedIn**: [sanjaykumarrajkumar](https://www.linkedin.com/in/sanjaykumarrajkumar/)  
 - **GitHub**: [Snjkmr162](https://github.com/Snjkmr162)
 
----
+
 
 > “Continuous learning and building” — let’s connect!
 
